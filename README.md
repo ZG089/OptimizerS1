@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/OptimizerS1/OptimizerS1/refs/heads/main/Banner.png)
+![Banner](https://github.com/OptimizerS1/OptimizerS1/blob/main/Banner.jpg)
 
 # 👽 This is me:
 A self-taught coder with basic chops. I tinker with Android stuff like modules, modifications, and whatever sparks my interest—root tweaks, UI hacks, you name it!
