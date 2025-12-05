@@ -2,14 +2,14 @@
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I am Optim!!
 
-# 🙂 About me
+## 🙂 About me
 A self-taught coder with basic chops. I tinker with Android stuff like modules, modifications, and whatever sparks my interest—root tweaks, UI hacks, you name it!
 
-> When I don't code, I grind games or sit down and watch Anime or I sketch. Also I run several and my own channels on Telegram.
+> When I don't code, I grind games or sit down and watch Anime or I sketch. Also I run several & my own channels on Telegram.
 
 <br>
 
-## <p align="center"> ⌨️ Codes I know / learning
+### <p align="center"> ⌨️ Codes I know / learning
 
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
@@ -25,7 +25,7 @@ A self-taught coder with basic chops. I tinker with Android stuff like modules, 
 
 <br>
 
-## <p align="center"> 💻 Software I use
+### <p align="center"> 💻 Software I use
 
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg">
@@ -41,5 +41,18 @@ A self-taught coder with basic chops. I tinker with Android stuff like modules, 
 
 <br>
 
-## <p align="center"> 👥 Contacts / Social
+### <p align="center"> 👥 Contacts / Social
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/OptimizerS1) ![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg) ![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg) ![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
+
+<br>
+
+# <p align="center"> 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Optimizers1&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### <p align="center"> ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### <p align="center"> 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Optimizers1&limit=5&theme=radical&combine_all_yearly_contributions=true)
