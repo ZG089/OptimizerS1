@@ -50,10 +50,16 @@ A self-taught coder with basic chops. I tinker with Android stuff like modules, 
 ![](https://github-readme-stats.vercel.app/api?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Optimizers1&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=OptimizerS1&theme=dracula&radius=10)
+![](https://github-readme-activity-graph.vercel.app/graph?username=OptimizerS1&theme=github_dark&radius=10)
 
 ### <p align="center"> ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### <p align="center"> 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Optimizers1&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
