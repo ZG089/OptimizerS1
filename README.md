@@ -60,6 +60,6 @@ A self-taught coder with basic chops. I tinker with Android stuff like modules, 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OptimizerS1/OptimizerS1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OptimizerS1/OptimizerS1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OptimizerS1/OptimizerS1/output/pacman-contribution-graph.svg">
 </picture>
